@@ -1,3 +1,1 @@
-#![allow(dead_code)]
-
-mod arrays;
+pub mod arrays;

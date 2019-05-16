@@ -1,2 +1,2 @@
-mod delete_nth;
-mod garage;
+pub mod delete_nth;
+pub mod garage;
