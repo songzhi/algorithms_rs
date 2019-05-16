@@ -1,0 +1,1 @@
+Minimal and clean example implementations of data structures and algorithms in Rust.
